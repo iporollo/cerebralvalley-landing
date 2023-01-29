@@ -14,7 +14,7 @@ export default function Home() {
         <div></div>
       </nav>
       <main className="flex justify-center">
-        <ul className="mt-24 w-1/2 mx-auto list-none">
+        <ul className="mt-24 w-3/4 mx-auto list-none">
           <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
             <a
               href="https://newinai.substack.com"
