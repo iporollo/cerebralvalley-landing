@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>New In AI</title>
+        <title>Cerebral Valley</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <nav className="flex items-center justify-between p-4 bg-white border-b">
         <img src="/newinai.png" alt="logo" className="h-10 rounded-md" />
-        <div className="text-lg font-medium">{`What's New In AI`}</div>
+        <div className="text-lg font-medium">{`Cerebral Valley`}</div>
         <div></div>
       </nav>
       <main className="flex justify-center">
