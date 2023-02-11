@@ -18,12 +18,15 @@ export default function Home() {
       </nav>
       <main className="flex justify-center">
         {width > 815 && (
-          <div className="w-full lg:w-1/2 m-auto text-center">
+          <div className="w-full lg:w-1/2 m-auto text-center mt-16">
             <h1 className="text-2xl font-bold">
               A community for AI builders and founders
             </h1>
+
             <div className="flex justify-center">
               <TwitterTweetEmbed tweetId={'1612482298670379010'} />
+            </div>
+            <div className="flex justify-center">
               <TwitterTweetEmbed tweetId={'1624246402846191617'} />
             </div>
           </div>
@@ -200,8 +203,11 @@ export default function Home() {
               <h1 className="text-2xl font-bold">
                 A community for AI builders and founders
               </h1>
-              <div className="flex-col justify-center pl-10">
+
+              <div className="flex justify-center">
                 <TwitterTweetEmbed tweetId={'1612482298670379010'} />
+              </div>
+              <div className="flex justify-center">
                 <TwitterTweetEmbed tweetId={'1624246402846191617'} />
               </div>
             </div>
