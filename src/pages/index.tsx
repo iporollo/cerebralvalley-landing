@@ -200,7 +200,7 @@ export default function Home() {
               <h1 className="text-2xl font-bold">
                 A community for AI builders and founders
               </h1>
-              <div className="flex justify-center">
+              <div className="flex-col justify-center pl-10">
                 <TwitterTweetEmbed tweetId={'1612482298670379010'} />
                 <TwitterTweetEmbed tweetId={'1624246402846191617'} />
               </div>
