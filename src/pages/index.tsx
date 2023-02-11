@@ -31,9 +31,9 @@ export default function Home() {
 
         <div className="w-full md:w-1/2">
           <ul className="mt-16 w-3/4 mx-auto list-none">
-            {/* <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
+            <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
               <a
-                href="https://airtable.com/shr33svLXILbTf1bs"
+                href="https://cerebralvalley.notion.site/Cerebral-Valley-a7361e7091204a3fbc8fcc8bc740277b"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center p-4 flex justify-between items-center"
@@ -60,7 +60,7 @@ export default function Home() {
                   />
                 </svg>
               </a>
-            </li> */}
+            </li>
             <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
               <a
                 href="https://airtable.com/shr33svLXILbTf1bs"
