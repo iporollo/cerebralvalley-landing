@@ -172,48 +172,6 @@ export default function Home() {
               </svg>
             </a>
           </li>
-          <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
-            <a
-              href="https://app.newinai.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center p-4 flex justify-between items-center"
-            >
-              <div className="flex items-center">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  strokeWidth="1.5"
-                  stroke="currentColor"
-                  className="rounded-md pr-4"
-                  style={{ height: 'auto', width: 64, color: 'gray' }}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 010 3.75H5.625a1.875 1.875 0 010-3.75z"
-                  />
-                </svg>
-                AI News Links List
-              </div>
-
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth="1.5"
-                stroke="currentColor"
-                className="w-6 h-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"
-                />
-              </svg>
-            </a>
-          </li>
         </ul>
       </main>
     </>
