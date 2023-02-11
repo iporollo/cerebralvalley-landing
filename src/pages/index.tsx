@@ -134,39 +134,6 @@ export default function Home() {
           </li>
           <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
             <a
-              href="https://discord.gg/kApBrN8uqv"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center p-4 flex justify-between items-center"
-            >
-              <div className="flex items-center">
-                <img
-                  src="/discord_logo.png"
-                  alt="logo"
-                  className="rounded-md pr-4"
-                  style={{ height: 'auto', width: 64 }}
-                />
-                Discord
-              </div>
-
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth="1.5"
-                stroke="currentColor"
-                className="w-6 h-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"
-                />
-              </svg>
-            </a>
-          </li>
-          <li className=" border border-gray-400 rounded-lg hover:bg-gray-200 mb-4">
-            <a
               href="https://twitter.com/whatsnewinai"
               target="_blank"
               rel="noopener noreferrer"
