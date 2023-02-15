@@ -1,8 +1,4 @@
-import { useState, Fragment } from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
-import { Popover, Transition } from '@headlessui/react';
-import { MenuIcon, XIcon } from '@heroicons/react/outline';
 import Hero from '../components/Hero';
 import Footer from '../components/Footer';
 import MainLinks from '../components/MainLinks';
