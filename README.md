@@ -1,3 +1,3 @@
-# NewInAI Landing page
+# Cerebral Valley Landing page
 
-https://newinai.com
+https://cerebralvalley.ai
