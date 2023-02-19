@@ -25,7 +25,7 @@ const Footer = ({ navigation }: FooterProps) => {
           ))}
         </nav>
         <p className="mt-8 text-center text-base text-gray-400">
-          &copy; 2022 Cerebral Valley, Inc.
+          &copy; 2023 Cerebral Valley, Inc.
         </p>
       </div>
     </footer>
