@@ -1,13 +1,18 @@
 {
   "redirects": [
     {
-      "source": "/events",
-      "destination": "https://docs.google.com/spreadsheets/d/1P6ut7vL-gXKbeDeh3nuPqBjoCupjIt87Sw7TnhumBSU/edit#gid=1781893986",
+      "source": "/about",
+      "destination": "https://cerebralvalley.notion.site/Cerebral-Valley-a7361e7091204a3fbc8fcc8bc740277b",
       "permanent": true
     },
     {
       "source": "/build",
       "destination": "https://airtable.com/shr33svLXILbTf1bs",
+      "permanent": true
+    },
+    {
+      "source": "/events",
+      "destination": "https://docs.google.com/spreadsheets/d/1P6ut7vL-gXKbeDeh3nuPqBjoCupjIt87Sw7TnhumBSU/edit#gid=1781893986",
       "permanent": true
     }
   ]

@@ -18,7 +18,7 @@ const mainLinks = [
     description:
       'A quick introduction to Cerebral Valley and what we are trying to accomplish',
     icon: '👋',
-    link: 'https://cerebralvalley.notion.site/Cerebral-Valley-a7361e7091204a3fbc8fcc8bc740277b',
+    link: 'https://cerebralvalley.ai/events',
   },
   {
     name: 'Newsletter',

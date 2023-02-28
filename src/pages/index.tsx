@@ -7,7 +7,7 @@ import NewInAI from '../components/NewInAI';
 const navigation = [
   {
     name: 'About',
-    href: 'https://cerebralvalley.notion.site/Cerebral-Valley-a7361e7091204a3fbc8fcc8bc740277b',
+    href: 'https://cerebralvalley.ai/about',
   },
   { name: 'Events', href: 'https://cerebralvalley.ai/events' },
   { name: 'Co-Working', href: 'https://cerebralvalley.ai/build' },
